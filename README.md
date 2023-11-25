@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm a Software Developer located and working in DO.
-- 🔭 I’m currently working on: Systems development andsupport
-- 🌱 I’m currently learning: C#
+- 🔭 I’m currently working on: Systems development andsupport🧰
+- 🌱 I’m currently learning: C#💻
 - 😄 Pronouns: 33🏀
 
 
