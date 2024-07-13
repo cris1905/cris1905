@@ -2,7 +2,7 @@
 
 I'm a Software Developer located and working in DO.
 - 🔭 I’m currently working on: Systems development and support🧰
-- 🌱 I’m currently learning: C#💻
+- 🌱 I’m currently learning: Javascript💻
 - 😄 Pronouns: 33🏀
 
 
